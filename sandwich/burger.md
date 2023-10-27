@@ -10,4 +10,4 @@ Cornichons
 
 Ketchup
 
-![Burger](Desktop/Git2iAcademy/sandwich/OIP.jfif)
+![Burger](OIP.jfif)
